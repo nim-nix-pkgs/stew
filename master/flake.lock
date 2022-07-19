@@ -43,11 +43,11 @@
     "src-stew-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1657991771,
-        "narHash": "sha256-RZnenro1b29z6djs20LMsOu6dZVpNJs69sFAAvWJoeE=",
+        "lastModified": 1658166991,
+        "narHash": "sha256-CyjKGeFF7Mc1M0DITmj5pJvKJLrCV55n0RkmTkSfxHw=",
         "owner": "status-im",
         "repo": "nim-stew",
-        "rev": "9a3130eb5b76c6504d6e6f8f86556c34f70300ef",
+        "rev": "8a9816ac02e6026e0fbeffaea474565cba46fc6a",
         "type": "github"
       },
       "original": {
