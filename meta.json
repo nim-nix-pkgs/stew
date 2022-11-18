@@ -9,10 +9,12 @@
   "refs": [
     "refs/heads/49b",
     "refs/heads/add-stew-enums",
+    "refs/heads/allow-empty-output",
     "refs/heads/assign-result",
     "refs/heads/assign-uninit",
     "refs/heads/asyncresults",
     "refs/heads/bugfix/assertion",
+    "refs/heads/build-flags",
     "refs/heads/ci-bump",
     "refs/heads/conio",
     "refs/heads/dev/etan/base10-type",
@@ -28,7 +30,6 @@
     "refs/heads/ref-fixes",
     "refs/heads/resopt",
     "refs/heads/results-compiler-error",
-    "refs/heads/rm-ranges",
     "refs/heads/testvcc",
     "refs/heads/unhandled_exception_procs",
     "refs/heads/utf_module",
@@ -57,6 +58,13 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny"
           }
         }
       ],
